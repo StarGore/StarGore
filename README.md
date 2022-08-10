@@ -4,6 +4,8 @@ My latest project my friends and I are working on is <a href="https://top.gg/ser
 _________________________________
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarGore&show_icons=true&theme=tokyonight)
 ## Discord Information
+🤖 Working on <a href="https://top.gg/bot/902635073608777769" URL>ARCI</a> & <a href="https:discord.gg/lapis" URL>Lapis</a>  
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/409750477710819330)](https://discord.com/users/409750477710819330)
 
 ```
@@ -15,3 +17,7 @@ tag: "NoloS#6969",
 user_ID: "409750477710819330",
 });
 ```
+## Social Media
+▶️ <a href="https://www.youtube.com/channel/UCZUsYRJwMGtYCBFoQTi22Nw" URL>YOUTUBE</a>  
+▶️ <a href="https://steamcommunity.com/profiles/76561198196385243" URL>STEAM</a>  
+▶️ <a href="https://twitch.tv/xstargore" URL>TWITCH</a>  
