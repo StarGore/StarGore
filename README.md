@@ -4,7 +4,7 @@ My latest project my friends and I are working on is <a href="https://top.gg/ser
 _________________________________
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarGore&show_icons=true&theme=tokyonight)
 ## Discord Information
-🤖 Working on <a href="https://top.gg/bot/902635073608777769" URL>ARCI</a> & <a href="https:discord.gg/lapis" URL>Lapis</a>  
+🤖 Working on <a href="https://top.gg/bot/902635073608777769" URL>ARCI</a> & <a href="https://discord.gg/lapis" URL>Lapis</a>  
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/409750477710819330)](https://discord.com/users/409750477710819330)
 
