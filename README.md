@@ -9,7 +9,7 @@ _________________________________
 [![Discord Presence](https://lanyard.cnrad.dev/api/409750477710819330)](https://discord.com/users/409750477710819330)
 
 ```
-const NoloS = userInfo({
+const NoloS = discordInfo({
 username: "NoloS",
 subname: "StarGore",
 discriminator: "6969",
