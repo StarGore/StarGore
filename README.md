@@ -18,6 +18,4 @@ user_ID: "409750477710819330",
 });
 ```
 ## Social Media
-▶️ <a href="https://www.youtube.com/channel/UCZUsYRJwMGtYCBFoQTi22Nw" URL>YOUTUBE</a>  
 ▶️ <a href="https://steamcommunity.com/profiles/76561198196385243" URL>STEAM</a>  
-▶️ <a href="https://twitch.tv/xstargore" URL>TWITCH</a>  
